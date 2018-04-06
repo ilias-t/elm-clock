@@ -7,4 +7,4 @@ A [Brunch](http://brunch.io) skeleton for [Elm](http://elm-lang.org) apps used t
 * Add Post CSS
 * ~~Make clock a component~~
 * ~~Browser, autoreload~~
-* Pack all JS into one file
+* Bundle JS
